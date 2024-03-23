@@ -11,7 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - SlingshotArea
   - 
   - 
   - 
@@ -38,6 +38,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Sky
+    uniqueID: 109951167
+    locked: 0
+  - name: Angry Bird
+    uniqueID: 2168770373
+    locked: 0
+  - name: Slingshot
+    uniqueID: 3475114059
+    locked: 0
+  - name: Grass
+    uniqueID: 881621955
+    locked: 0
+  - name: Ground
+    uniqueID: 993174055
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
